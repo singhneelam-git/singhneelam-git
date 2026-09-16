@@ -94,8 +94,8 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
   </thead>
   <tbody>
     <tr>
-      <td><strong>[Project Title 1]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
+      <td><strong>Customer Churn Prediction & Retention Analytics</strong></td>
+      <td>B2B SaaS customer analysis using exploratory data analysis and machine learning to predict churn and identify actionable retention insights.</td>
       <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
     </tr>
     <tr>
