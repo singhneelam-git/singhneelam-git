@@ -96,17 +96,19 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
     <tr>
       <td><strong>Customer Churn Prediction & Retention Analytics</strong></td>
       <td>B2B SaaS customer analysis using exploratory data analysis and machine learning to predict churn and identify actionable retention insights.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td>
+        <a href="https://github.com/singhneelam-git/customer-churn-prediction-retention-analytics">Repo</a></td>
     </tr>
     <tr>
-      <td><strong>[Project Title 2]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>diabetes-readmission-risk-analytics</strong></td>
+      <td>This project analyses hospital encounters for patients with diabetes and develops machine learning models to predict the likelihood of hospital readmission.</td>
+      <td><a href="https://github.com/singhneelam-git/diabetes-readmission-risk-analytics">Repo</a></td>
     </tr>
     <tr>
-      <td><strong>[Project Title 3]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>fundraising-supporter-analytics
+</strong></td>
+      <td>An end-to-end data analytics project exploring donor behaviour, fundraising performance and data quality for a fictional nonprofit organisation.</td>
+      <td><a href="https://github.com/singhneelam-git/fundraising-supporter-analytics">Repo</a></td>
     </tr>
   </tbody>
 </table>
