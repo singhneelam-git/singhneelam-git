@@ -114,16 +114,20 @@ I'm a data analyst with a BCS-accredited diploma, trained in the full data pipel
 </table>
 <h2>GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhneelam-git&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhneelam-git&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 <h2>Connect With Me</h2>
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://uk.linkedin.com/in/neelam-singh-38538810" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+
+  <a href="mailto:singhneelam.nid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-<p align="center">Thanks for stopping by. Feel free to explore the repos or reach out!</p>
+
+<p align="center">
+  Thanks for stopping by. Feel free to explore the repos or reach out!
+</p>
